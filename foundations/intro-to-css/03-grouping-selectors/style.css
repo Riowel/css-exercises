@@ -1,0 +1,16 @@
+.second,
+.primero
+    {
+        font-size: 55px;
+        font-family: Helvetica, 'Times New Roman', sans-serif;
+    }
+
+.second
+    {
+        background-color: rgb(255, 255, 0);
+    }
+.primero
+    {
+        background-color: black;
+        color:white;
+    }
