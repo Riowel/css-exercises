@@ -1,0 +1,15 @@
+p
+{
+    background-color:rgb(227, 179, 166);
+    font-family:'Segoe UI', Tahoma, Verdana, DejaVu Sans, sans-serif;
+}
+#bluepair   
+    {
+        color: rgb(0, 0, 255);
+        font-size: 36px;
+    }
+#greenpair
+    {
+        background-color: rgb(169, 232, 169);
+        font-size: 24px;
+    }
